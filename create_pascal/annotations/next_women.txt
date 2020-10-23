@@ -1,0 +1,422 @@
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000001.jpg person 906 394 1034 714 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000004.jpg person 906 394 1034 714 person 192 894 363 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000007.jpg person 906 394 1034 714 person 198 879 369 1065 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000010.jpg person 906 394 1034 713 person 231 838 421 1031 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000013.jpg person 906 394 1034 713 person 231 784 421 1031 person 87 1000 287 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000016.jpg person 906 394 1034 713 person 285 765 475 1012 person 87 964 287 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000019.jpg person 906 394 1034 713 person 317 745 618 1001 person 106 951 306 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000022.jpg person 906 394 1034 713 person 324 729 625 985 person 106 926 306 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000025.jpg person 906 394 1034 713 person 381 695 636 999 person 147 886 347 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000028.jpg person 906 395 1034 714 person 404 666 629 1000 person 182 871 382 1065 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000031.jpg person 906 395 1034 714 person 419 653 644 987 person 206 851 406 1045 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000034.jpg person 906 395 1034 714 person 447 630 672 979 person 226 815 426 1034 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000037.jpg person 906 395 1034 714 person 462 579 687 936 person 272 783 537 1002 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000040.jpg person 906 395 1033 713 person 462 579 687 936 person 272 783 537 1002 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000043.jpg person 906 395 1034 714 person 509 555 719 902 person 328 745 552 1008 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000046.jpg person 906 395 1034 714 person 520 540 730 902 person 341 733 565 1008 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000049.jpg person 906 395 1033 714 person 549 525 759 887 person 360 684 584 1003 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000052.jpg person 906 395 1033 713 person 573 503 782 864 person 378 673 602 992 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000055.jpg person 906 395 1033 713 person 588 457 797 817 person 414 637 686 985 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000058.jpg person 906 396 1033 714 person 636 443 814 803 person 471 587 686 985 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000061.jpg person 906 396 1033 714 person 649 429 825 785 person 471 587 686 985 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000064.jpg person 906 394 1034 713 person 663 407 838 760 person 510 536 725 934 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000067.jpg person 906 394 1034 713 person 670 394 845 748 person 510 536 725 934 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000070.jpg person 906 396 1033 714 person 688 375 861 725 person 510 536 725 934 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000073.jpg person 907 397 1034 714 person 698 368 867 711 person 552 509 767 907 person 25 957 246 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000076.jpg person 906 395 1034 714 person 711 347 867 694 person 575 483 784 869 person 25 946 246 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000079.jpg person 906 395 1034 714 person 727 323 872 647 person 609 452 801 817 person 76 887 257 1064 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000082.jpg person 906 395 1033 714 person 727 323 872 647 person 631 446 814 795 person 85 881 254 1046 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000085.jpg person 906 395 1033 714 person 751 312 896 636 person 669 427 838 749 person 94 865 302 1079 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000088.jpg person 906 394 1034 713 person 762 293 907 617 person 674 417 842 767 person 110 820 318 1075 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000091.jpg person 906 395 1033 713 person 762 293 907 617 person 696 400 861 744 person 110 820 318 1075 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000094.jpg person 904 393 1032 713 person 771 275 916 599 person 708 391 871 730 person 143 767 351 1071 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000097.jpg person 904 393 1032 713 person 806 257 951 528 person 730 377 889 735 person 143 767 351 1071 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000100.jpg person 906 396 1033 714 person 806 257 951 528 person 731 366 895 735 person 143 767 351 1071 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000103.jpg person 906 394 1034 714 person 833 256 978 526 person 732 339 901 720 person 172 757 380 1061 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000106.jpg person 906 395 1033 714 person 868 236 1017 524 person 752 329 907 638 person 172 757 473 1061 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000109.jpg person 906 396 1033 714 person 868 236 1017 524 person 752 329 907 638 person 172 757 473 1061 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000112.jpg person 905 393 1033 714 person 892 225 1033 475 person 779 313 908 638 person 172 757 473 1061 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000115.jpg person 906 395 1033 713 person 893 219 1037 475 person 779 313 908 638 person 172 757 473 1061 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000118.jpg person 905 395 1032 714 person 939 201 1051 469 person 804 291 933 616 person 211 737 512 1041 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000121.jpg person 905 395 1032 713 person 946 195 1058 464 person 815 279 948 613 person 211 737 512 1041 person 128 989 316 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000124.jpg person 906 395 1034 714 person 958 189 1072 462 person 840 272 969 597 person 271 690 572 994 person 128 957 316 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000127.jpg person 905 394 1033 714 person 952 180 1069 459 person 861 252 990 577 person 310 682 698 1022 person 167 910 317 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000130.jpg person 906 395 1034 714 person 976 169 1095 453 person 861 242 995 524 person 318 669 706 1009 person 167 910 317 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000133.jpg person 906 394 1034 714 person 991 160 1110 445 person 862 232 1002 525 person 345 655 733 995 person 196 894 346 1064 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000136.jpg person 906 394 1034 714 person 998 158 1116 439 person 878 226 1021 526 person 399 636 718 1005 person 196 887 375 1064 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000139.jpg person 906 394 1034 714 person 1009 154 1124 427 person 878 226 1021 526 person 444 580 709 1028 person 218 849 399 1028 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000142.jpg person 906 394 1034 714 person 1018 149 1131 419 person 893 220 1035 477 person 444 580 709 1028 person 250 824 395 1032 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000145.jpg person 905 394 1033 714 person 1027 137 1138 401 person 893 220 1035 477 person 444 580 709 1028 person 250 824 395 1032 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000148.jpg person 906 394 1034 714 person 1032 134 1141 394 person 893 220 1035 477 person 444 580 709 1028 person 250 824 395 1032 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000151.jpg person 906 394 1034 714 person 1044 130 1150 383 person 936 194 1081 457 person 510 554 775 1003 person 319 784 500 992 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000154.jpg person 906 394 1034 714 person 938 184 1090 459 person 526 512 791 961 person 325 752 506 960 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000157.jpg person 906 394 1034 714 person 939 184 1091 460 person 562 477 827 926 person 348 724 579 985 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000160.jpg person 906 394 1034 714 person 939 184 1091 460 person 562 477 827 926 person 348 724 579 985 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000163.jpg person 906 394 1034 714 person 971 157 1094 434 person 633 468 862 897 person 381 704 612 965 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000166.jpg person 906 395 1033 713 person 973 150 1098 433 person 656 451 879 869 person 381 704 612 965 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000169.jpg person 906 394 1034 714 person 975 146 1102 434 person 647 452 870 870 person 422 688 653 995 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000172.jpg person 906 394 1034 714 person 985 140 1112 427 person 669 420 869 838 person 433 667 664 974 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000175.jpg person 906 394 1034 714 person 994 137 1118 417 person 694 402 859 817 person 467 607 698 974 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000178.jpg person 906 395 1034 714 person 1008 125 1135 412 person 698 384 868 812 person 467 607 698 974 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000181.jpg person 906 395 1034 714 person 698 384 868 812 person 467 607 698 974 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000184.jpg person 906 394 1034 713 person 698 384 868 812 person 467 607 698 974 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000187.jpg person 906 394 1034 713 person 737 343 905 707 person 525 552 756 919 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000190.jpg person 906 395 1034 714 person 737 343 905 707 person 525 552 756 919 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000193.jpg person 906 394 1034 714 person 780 324 905 696 person 560 523 791 890 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000196.jpg person 906 394 1034 714 person 780 324 905 696 person 560 523 791 890 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000199.jpg person 906 394 1034 713 person 811 324 936 696 person 593 505 797 873 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000202.jpg person 906 395 1034 714 person 835 295 960 542 person 604 487 809 813 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000205.jpg person 905 395 1033 714 person 850 279 1029 528 person 650 463 809 813 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000208.jpg person 906 395 1034 714 person 850 279 1029 528 person 675 440 832 786 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000211.jpg person 906 395 1033 714 person 850 279 1029 528 person 687 427 844 772 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000214.jpg person 906 394 1034 714 person 146 902 360 1078 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000217.jpg person 907 394 1035 714 person 175 872 389 1048 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000220.jpg person 906 394 1034 714 person 199 840 410 1014 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000223.jpg person 906 394 1034 714 person 211 823 421 996 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000226.jpg person 906 394 1034 714 person 221 780 430 1019 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000229.jpg person 906 394 1034 714 person 221 780 430 1019 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000232.jpg person 906 394 1034 714 person 267 745 476 984 person 81 1000 258 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000235.jpg person 906 394 1034 714 person 287 716 496 955 person 103 987 280 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000238.jpg person 906 394 1034 714 person 313 701 570 992 person 130 960 316 1078 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000241.jpg person 906 394 1034 714 person 313 701 570 992 person 130 960 316 1078 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000244.jpg person 906 394 1034 714 person 357 701 570 992 person 176 899 319 1073 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000247.jpg person 906 394 1034 714 person 375 657 589 1009 person 176 899 367 1073 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000250.jpg person 906 394 1034 714 person 424 652 638 1004 person 212 872 403 1046 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000253.jpg person 906 394 1034 714 person 424 652 638 1004 person 212 872 403 1046 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000256.jpg person 905 393 1033 714 person 455 617 669 969 person 245 834 436 1008 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000259.jpg person 906 394 1034 715 person 455 617 669 969 person 272 793 463 967 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000262.jpg person 906 393 1034 714 person 455 617 669 969 person 272 793 463 967 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000265.jpg person 906 394 1034 714 person 484 564 698 984 person 327 777 518 951 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000268.jpg person 905 393 1033 714 person 502 542 716 962 person 350 760 593 996 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000271.jpg person 906 394 1034 714 person 502 542 716 962 person 350 760 593 996 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000274.jpg person 906 393 1034 714 person 551 529 758 936 person 412 740 682 1034 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000277.jpg person 906 393 1034 714 person 570 524 773 923 person 412 740 682 1034 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000280.jpg person 908 393 1037 715 person 589 514 791 912 person 483 711 705 1002 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000283.jpg person 908 393 1037 715 person 601 515 794 894 person 496 705 716 994 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000286.jpg person 908 393 1037 715 person 615 507 805 881 person 517 693 736 980 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000289.jpg person 908 393 1037 715 person 622 504 811 875 person 526 686 745 973 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000292.jpg person 908 393 1037 715 person 630 494 820 867 person 545 667 762 952 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000295.jpg person 908 393 1037 715 person 630 483 820 856 person 565 651 776 1002 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000298.jpg person 908 393 1037 715 person 634 476 824 849 person 575 644 783 989 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000301.jpg person 952 374 1082 698 person 637 461 828 837 person 595 632 796 967 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000304.jpg person 954 374 1083 697 person 638 459 830 836 person 601 631 798 959 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000307.jpg person 962 374 1092 699 person 637 448 833 832 person 629 618 822 939 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000310.jpg person 970 375 1100 699 person 636 445 833 831 person 618 608 812 987 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000313.jpg person 986 380 1114 700 person 632 438 829 824 person 647 590 841 968 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000316.jpg person 1007 382 1133 698 person 638 432 802 804 person 643 558 837 936 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000319.jpg person 1011 381 1137 696 person 635 436 793 794 person 650 547 846 929 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000322.jpg person 1018 378 1145 697 person 617 434 768 778 person 659 528 856 913 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000325.jpg person 1021 375 1149 695 person 617 432 769 777 person 661 517 858 902 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000328.jpg person 1039 371 1154 692 person 611 427 771 790 person 666 523 842 901 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000331.jpg person 1041 367 1158 693 person 611 426 772 790 person 668 518 840 886 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000334.jpg person 1046 360 1166 694 person 611 414 777 791 person 678 506 843 861 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000337.jpg person 1046 360 1166 694 person 610 400 784 793 person 686 500 849 850 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000340.jpg person 1047 360 1167 694 person 610 385 791 796 person 707 487 865 826 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000343.jpg person 1082 342 1191 676 person 610 385 791 796 person 716 464 877 834 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000346.jpg person 1081 342 1190 676 person 610 385 791 796 person 717 454 882 833 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000349.jpg person 1081 342 1190 676 person 628 360 809 771 person 730 438 885 774 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000352.jpg person 1081 342 1190 676 person 647 335 813 746 person 746 412 902 750 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000355.jpg person 1081 342 1190 676 person 650 334 815 743 person 746 412 902 750 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000358.jpg person 1081 342 1190 676 person 662 334 815 710 person 778 412 902 682 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000361.jpg person 1081 342 1190 676 person 680 325 827 687 person 779 402 907 682 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000364.jpg person 767 400 927 756 person 904 360 1061 682 person 931 267 1051 473 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000367.jpg person 767 400 927 756 person 907 365 1062 683 person 932 268 1054 478 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000370.jpg person 767 400 927 756 person 912 367 1069 690 person 916 272 1038 481 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000373.jpg person 767 400 927 756 person 913 370 1070 693 person 911 274 1033 484 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000376.jpg person 767 400 927 756 person 910 375 1066 695 person 898 276 1023 490 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000379.jpg person 766 401 926 757 person 908 377 1063 695 person 890 275 1017 493 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000382.jpg person 767 400 927 756 person 905 380 1059 697 person 871 283 994 493 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000385.jpg person 625 751 892 1080 person 767 437 888 733 person 595 424 726 737 person 339 678 611 995 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000388.jpg person 625 751 892 1080 person 768 442 886 732 person 595 424 726 737 person 339 679 611 996 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000391.jpg person 625 751 892 1080 person 767 435 888 731 person 595 424 726 737 person 341 683 611 997 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000394.jpg person 632 796 915 1080 person 751 452 872 779 person 595 424 726 737 person 339 678 611 995 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000397.jpg person 636 794 914 1080 person 748 458 868 781 person 595 421 727 737 person 339 678 611 995 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000400.jpg person 636 794 914 1080 person 740 458 865 796 person 595 420 728 737 person 339 678 611 995 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000403.jpg person 636 794 914 1080 person 726 458 855 806 person 594 416 729 737 person 339 678 611 995 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000406.jpg person 720 805 998 1080 person 715 461 843 808 person 595 424 726 737 person 339 678 611 995 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000409.jpg person 761 806 1041 1080 person 701 468 830 816 person 595 424 726 737 person 339 678 611 995 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000412.jpg person 790 811 1065 1080 person 692 474 820 822 person 595 424 726 737 person 339 678 611 995 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000415.jpg person 799 811 1075 1080 person 689 478 818 826 person 595 424 726 737 person 339 678 611 995 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000418.jpg person 811 813 1087 1080 person 682 490 811 840 person 595 424 726 737 person 339 678 611 995 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000421.jpg person 813 814 1088 1080 person 680 494 809 844 person 595 424 726 737 person 339 678 611 995 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000424.jpg person 813 817 1090 1080 person 672 509 802 860 person 595 424 726 737 person 339 678 611 995 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000427.jpg person 810 822 1084 1080 person 669 515 799 867 person 595 424 726 737 person 339 678 611 995 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000430.jpg person 792 832 1066 1080 person 666 528 797 884 person 595 424 726 737 person 339 678 611 995 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000433.jpg person 765 848 1041 1080 person 663 538 794 893 person 595 424 726 737 person 339 678 611 995 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000436.jpg person 751 857 1027 1080 person 660 541 791 896 person 595 424 726 737 person 339 678 611 995 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000439.jpg person 723 874 1000 1080 person 654 552 781 896 person 595 424 726 737 person 339 678 611 995 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000442.jpg person 712 883 990 1080 person 649 553 777 901 person 595 425 726 737 person 339 678 611 995 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000445.jpg person 704 902 976 1080 person 639 553 770 909 person 595 424 726 736 person 397 662 612 994 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000448.jpg person 698 919 967 1080 person 632 551 766 914 person 595 425 726 737 person 402 661 616 992 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000451.jpg person 682 961 957 1080 person 621 550 818 923 person 595 424 726 737 person 396 663 611 995 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000454.jpg person 671 986 952 1080 person 617 550 815 924 person 595 424 726 737 person 396 663 611 995 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000457.jpg person 655 1036 939 1080 person 610 551 808 926 person 595 424 726 737 person 396 663 611 995 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000460.jpg person 606 553 803 926 person 595 424 726 737 person 396 663 611 995 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000463.jpg person 585 554 782 928 person 628 430 760 745 person 434 667 648 998 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000466.jpg person 582 557 778 928 person 620 434 751 748 person 434 668 647 997 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000469.jpg person 581 557 778 929 person 619 434 751 749 person 434 668 647 997 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000472.jpg person 578 558 776 933 person 620 436 752 751 person 434 668 647 997 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000475.jpg person 576 559 775 935 person 626 428 763 755 person 434 668 647 997 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000478.jpg person 574 561 774 939 person 626 430 763 757 person 472 685 669 1013 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000481.jpg person 574 561 774 940 person 629 431 762 750 person 477 690 675 1020 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000484.jpg person 575 563 776 943 person 629 433 761 748 person 486 704 683 1032 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000487.jpg person 575 564 776 944 person 627 433 760 751 person 491 710 691 1043 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000490.jpg person 576 565 777 945 person 626 434 760 753 person 492 710 692 1044 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000493.jpg person 579 566 779 945 person 626 434 760 755 person 496 710 695 1042 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000496.jpg person 580 566 780 945 person 626 434 760 755 person 498 739 700 1043 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000499.jpg person 582 566 782 945 person 626 434 761 756 person 497 737 700 1042 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000502.jpg person 582 566 782 945 person 628 434 763 756 person 497 737 700 1042 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000505.jpg person 584 566 785 946 person 632 434 767 757 person 497 737 700 1042 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000508.jpg person 617 566 786 934 person 636 433 771 756 person 566 748 769 1053 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000511.jpg person 617 567 786 936 person 637 433 772 756 person 579 747 781 1051 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000514.jpg person 620 569 791 940 person 639 432 775 758 person 601 748 799 1046 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000517.jpg person 621 569 792 942 person 640 432 777 760 person 613 750 810 1046 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000520.jpg person 625 571 796 944 person 641 431 779 762 person 616 755 820 1079 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000523.jpg person 628 571 802 949 person 643 430 783 763 person 618 757 821 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000526.jpg person 635 572 810 954 person 645 427 788 768 person 621 761 823 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000529.jpg person 639 573 816 958 person 646 425 790 770 person 623 762 825 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000532.jpg person 633 583 811 915 person 624 434 770 702 person 671 797 849 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000535.jpg person 640 585 817 915 person 621 434 766 701 person 670 797 849 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000538.jpg person 642 584 822 919 person 619 435 763 700 person 674 797 853 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000541.jpg person 642 587 820 919 person 613 433 760 703 person 679 797 857 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000544.jpg person 642 585 822 921 person 610 433 758 704 person 681 796 859 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000547.jpg person 640 587 820 923 person 608 433 756 705 person 685 795 859 1076 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000550.jpg person 638 587 819 924 person 608 433 756 704 person 688 794 859 1070 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000553.jpg person 625 603 804 936 person 608 428 765 716 person 691 787 888 1071 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000556.jpg person 617 605 798 943 person 606 429 764 719 person 693 784 887 1065 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000559.jpg person 600 612 782 951 person 610 429 767 717 person 703 781 894 1057 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000562.jpg person 576 619 757 957 person 622 438 778 724 person 705 778 893 1076 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000565.jpg person 563 622 744 960 person 624 438 779 723 person 720 779 905 1073 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000568.jpg person 542 629 723 966 person 627 439 782 723 person 742 780 925 1070 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000571.jpg person 537 630 717 966 person 627 439 781 722 person 747 779 930 1070 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000574.jpg person 530 636 710 971 person 628 439 782 722 person 717 728 941 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000577.jpg person 523 639 703 974 person 628 439 782 722 person 723 728 948 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000580.jpg person 514 652 689 977 person 629 439 783 721 person 737 738 954 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000583.jpg person 504 666 711 984 person 629 439 783 721 person 732 732 959 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000586.jpg person 499 675 704 991 person 629 439 783 721 person 731 732 959 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000589.jpg person 487 694 689 1004 person 629 439 783 721 person 724 730 955 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000592.jpg person 477 694 690 1021 person 629 439 783 721 person 720 727 953 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000595.jpg person 465 696 692 1045 person 629 439 783 721 person 713 723 950 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000598.jpg person 460 698 694 1058 person 629 439 783 721 person 709 723 945 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000601.jpg person 454 703 694 1072 person 629 439 783 721 person 701 731 926 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000604.jpg person 453 705 695 1076 person 629 439 783 721 person 697 735 917 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000607.jpg person 452 708 693 1079 person 629 439 783 722 person 689 741 901 1075 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000610.jpg person 448 711 689 1080 person 629 439 783 722 person 676 733 895 1077 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000613.jpg person 444 711 686 1080 person 629 439 783 722 person 671 730 892 1078 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000616.jpg person 427 714 671 1080 person 628 439 782 722 person 663 723 889 1078 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000619.jpg person 415 716 660 1080 person 628 439 782 722 person 659 719 887 1078 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000622.jpg person 394 717 640 1080 person 628 439 782 722 person 655 714 887 1078 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000625.jpg person 400 734 634 1080 person 628 439 782 722 person 654 764 944 1078 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000628.jpg person 400 734 634 1080 person 628 439 782 722 person 651 761 941 1075 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000631.jpg person 364 734 602 998 person 628 439 782 722 person 650 760 939 1073 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000634.jpg person 364 734 602 998 person 628 439 782 722 person 649 758 939 1072 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000637.jpg person 364 752 552 998 person 628 439 782 722 person 649 758 939 1072 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000640.jpg person 364 752 552 998 person 628 439 782 722 person 649 758 939 1072 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000643.jpg person 364 752 552 998 person 628 439 782 722 person 645 763 937 1079 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000646.jpg person 337 759 525 1005 person 628 439 782 722 person 644 763 937 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000649.jpg person 337 759 525 1005 person 628 439 782 722 person 639 760 935 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000652.jpg person 337 759 525 1005 person 628 439 782 722 person 639 759 936 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000655.jpg person 290 808 479 1015 person 628 439 782 722 person 632 757 935 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000658.jpg person 290 808 479 1015 person 628 439 783 722 person 628 756 936 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000661.jpg person 290 808 479 1015 person 628 439 783 722 person 627 755 936 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000664.jpg person 266 838 431 1027 person 628 439 783 722 person 636 769 923 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000667.jpg person 266 838 431 1027 person 628 439 783 723 person 638 770 924 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000670.jpg person 266 838 431 1027 person 628 438 783 722 person 627 755 937 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000673.jpg person 266 838 431 1027 person 628 438 783 723 person 627 755 938 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000676.jpg person 266 838 431 1027 person 628 437 783 722 person 630 755 938 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000679.jpg person 211 877 376 1066 person 628 437 783 722 person 638 772 925 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000682.jpg person 192 887 358 1077 person 628 437 783 722 person 631 755 938 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000685.jpg person 180 897 344 1080 person 628 437 783 721 person 631 755 938 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000688.jpg person 829 274 1003 581 person 966 181 1076 477 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000691.jpg person 815 281 992 592 person 964 190 1071 480 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000694.jpg person 788 294 970 615 person 955 207 1065 505 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000697.jpg person 761 316 944 639 person 947 217 1060 521 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000700.jpg person 747 328 930 650 person 941 222 1054 528 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000703.jpg person 717 346 905 677 person 928 235 1043 544 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000706.jpg person 702 354 894 692 person 925 252 1041 565 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000709.jpg person 678 367 875 713 person 916 270 1030 578 person 647 145 745 367 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000712.jpg person 663 378 861 727 person 903 278 1020 593 person 646 147 743 367 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000715.jpg person 630 403 831 757 person 886 285 1006 608 person 641 155 737 373 person 592 689 692 918 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000718.jpg person 612 413 817 773 person 876 288 1002 627 person 637 161 733 377 person 578 705 678 936 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000721.jpg person 578 431 791 806 person 857 311 984 653 person 627 172 723 390 person 548 737 649 970 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000724.jpg person 547 459 763 839 person 841 334 971 684 person 614 178 712 400 person 517 771 619 1007 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000727.jpg person 533 477 748 855 person 830 342 958 687 person 607 184 704 404 person 502 787 605 1024 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000730.jpg person 502 508 719 889 person 801 359 929 704 person 593 195 693 421 person 471 822 575 1061 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000733.jpg person 485 520 705 907 person 788 370 917 718 person 584 202 685 430 person 455 839 560 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000736.jpg person 460 538 685 933 person 764 391 896 746 person 569 208 671 439 person 433 865 540 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000739.jpg person 443 550 670 950 person 747 406 879 763 person 559 209 663 445 person 417 881 525 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000742.jpg person 413 585 640 984 person 715 419 852 788 person 545 218 651 457 person 401 898 509 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000745.jpg person 413 585 640 984 person 710 429 844 791 person 545 218 651 457 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000748.jpg person 386 629 613 1028 person 681 453 817 820 person 545 218 651 457 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000751.jpg person 366 660 614 1028 person 651 486 790 861 person 545 249 636 457 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000754.jpg person 324 676 572 1044 person 635 498 775 875 person 545 284 616 457 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000757.jpg person 324 676 572 1044 person 598 519 740 902 person 545 284 616 457 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000760.jpg person 277 731 522 1037 person 612 520 755 905 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000763.jpg person 277 731 522 1037 person 577 549 725 948 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000766.jpg person 246 760 419 1044 person 555 565 758 963 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000769.jpg person 208 783 381 1067 person 538 591 760 973 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000772.jpg person 178 796 351 1080 person 491 587 720 942 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000775.jpg person 157 845 330 1080 person 458 599 687 954 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000778.jpg person 118 884 292 1080 person 430 644 659 999 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000781.jpg person 85 943 260 1078 person 400 666 629 1021 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000784.jpg person 73 944 264 1080 person 377 692 629 1021 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000787.jpg person 40 966 228 1080 person 349 716 584 985 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000790.jpg person 13 992 176 1080 person 333 730 563 982 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000793.jpg person 294 760 510 982 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000796.jpg person 271 774 487 996 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000799.jpg person 228 807 444 1029 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000802.jpg person 188 835 404 1057 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000805.jpg person 188 880 380 1057 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000808.jpg person 157 904 349 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000811.jpg person 157 904 349 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000814.jpg person 137 974 306 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000817.jpg person 1393 468 1655 920 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000820.jpg person 1393 468 1655 920 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000823.jpg person 1393 468 1655 920 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000826.jpg person 1393 468 1655 920 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000829.jpg person 1393 468 1655 920 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000832.jpg person 742 331 850 711 person 838 355 946 593 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000835.jpg person 738 337 845 713 person 838 355 946 593 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000838.jpg person 722 357 824 716 person 838 355 946 593 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000841.jpg person 702 359 805 721 person 801 380 907 615 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000844.jpg person 680 362 790 732 person 777 386 899 721 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000847.jpg person 642 388 778 785 person 743 412 868 821 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000850.jpg person 632 399 769 800 person 735 424 860 833 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000853.jpg person 612 421 750 825 person 720 448 841 845 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000856.jpg person 606 430 742 827 person 714 458 833 848 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000859.jpg person 597 442 732 836 person 705 466 827 866 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000862.jpg person 585 449 723 851 person 699 475 823 881 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000865.jpg person 563 470 705 885 person 689 497 814 904 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000868.jpg person 552 483 695 900 person 680 506 806 919 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000871.jpg person 530 504 676 930 person 672 519 802 944 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000874.jpg person 508 515 657 950 person 633 541 800 957 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000877.jpg person 501 519 653 963 person 633 554 800 968 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000880.jpg person 480 521 650 923 person 639 601 806 1014 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000883.jpg person 480 521 650 923 person 644 614 813 1033 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000886.jpg person 480 521 650 923 person 653 632 825 1057 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000889.jpg person 480 556 650 958 person 661 617 833 1043 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000892.jpg person 480 556 650 958 person 671 638 845 1070 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000895.jpg person 480 556 672 997 person 675 652 850 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000898.jpg person 480 582 677 997 person 667 700 843 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000901.jpg person 480 582 677 997 person 673 722 854 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000904.jpg person 480 582 677 997 person 675 731 857 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000907.jpg person 487 616 718 997 person 680 743 896 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000910.jpg person 506 654 738 1036 person 683 745 897 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000913.jpg person 505 654 736 1035 person 683 745 897 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000916.jpg person 555 677 786 1058 person 683 746 897 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000919.jpg person 561 682 790 1060 person 704 747 918 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000922.jpg person 567 684 796 1062 person 716 751 923 1074 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000925.jpg person 567 684 796 1062 person 751 763 955 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000928.jpg person 602 698 830 1075 person 763 800 963 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000931.jpg person 608 707 832 1077 person 761 798 963 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000934.jpg person 608 707 833 1078 person 764 800 966 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000937.jpg person 608 707 833 1078 person 765 800 967 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000940.jpg person 644 759 833 1078 person 777 801 979 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000943.jpg person 644 771 833 1080 person 777 801 979 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000946.jpg person 645 792 833 1080 person 774 799 975 1077 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000949.jpg person 644 802 831 1080 person 774 798 975 1076 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000952.jpg person 644 805 832 1080 person 774 798 975 1076 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000955.jpg person 643 808 831 1080 person 775 799 976 1077 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000958.jpg person 642 809 830 1080 person 776 799 977 1077 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000961.jpg person 642 810 830 1080 person 776 799 977 1077 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000964.jpg person 641 809 826 1080 person 777 799 978 1077 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000967.jpg person 637 800 816 1080 person 777 799 978 1077 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000970.jpg person 638 793 815 1080 person 783 799 984 1077 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000973.jpg person 637 780 822 1080 person 783 799 983 1075 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000976.jpg person 636 776 823 1080 person 781 799 980 1074 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000979.jpg person 637 778 824 1080 person 781 799 978 1072 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000982.jpg person 638 779 826 1080 person 780 798 976 1069 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000985.jpg person 638 779 825 1080 person 780 798 976 1069 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000988.jpg person 615 764 825 1080 person 772 762 968 1076 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000991.jpg person 615 765 825 1080 person 767 759 966 1078 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000994.jpg person 616 769 824 1080 person 766 758 966 1078 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_000997.jpg person 616 769 824 1080 person 766 758 966 1078 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001000.jpg person 616 769 824 1080 person 746 698 946 1078 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001003.jpg person 616 769 824 1080 person 746 698 946 1078 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001006.jpg person 591 769 799 1080 person 746 666 946 1074 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001009.jpg person 591 769 799 1080 person 746 666 946 1074 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001012.jpg person 540 749 788 1073 person 717 666 917 1074 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001015.jpg person 540 748 788 1072 person 717 666 917 1074 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001018.jpg person 517 748 765 1072 person 677 662 874 1065 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001021.jpg person 469 745 765 1072 person 639 655 900 1052 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001024.jpg person 469 745 765 1072 person 639 655 900 1052 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001027.jpg person 469 745 765 1072 person 623 640 811 1037 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001030.jpg person 469 745 765 1072 person 605 632 790 1023 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001033.jpg person 469 745 765 1072 person 599 627 781 1011 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001036.jpg person 444 734 740 1061 person 565 614 746 996 person 1023 129 1091 388 person 1071 151 1142 414 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001039.jpg person 444 734 740 1061 person 565 614 742 988 person 1020 132 1087 389 person 1069 153 1139 414 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001042.jpg person 444 734 740 1061 person 558 611 726 966 person 1011 141 1078 397 person 1063 160 1133 418 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001045.jpg person 442 707 738 1034 person 540 610 705 958 person 1005 146 1073 406 person 1061 163 1132 425 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001048.jpg person 439 682 673 1013 person 516 608 725 949 person 990 151 1060 419 person 1055 167 1127 432 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001051.jpg person 442 670 673 997 person 477 600 731 939 person 977 156 1047 423 person 1027 171 1120 457 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001054.jpg person 442 669 673 996 person 452 617 705 955 person 973 158 1043 426 person 1027 175 1118 456 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001057.jpg person 415 677 646 1004 person 404 622 657 960 person 964 167 1035 436 person 1023 184 1113 462 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001060.jpg person 415 677 646 1004 person 962 171 1033 440 person 1023 187 1113 464 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001063.jpg person 375 667 606 994 person 953 182 1025 457 person 1022 198 1112 476 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001066.jpg person 375 667 606 994 person 948 183 1022 464 person 1023 200 1113 478 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001069.jpg person 324 768 556 994 person 940 188 1014 470 person 1021 206 1113 489 person 317 687 504 810 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001072.jpg person 324 768 556 994 person 933 196 1008 481 person 1016 215 1108 500 person 317 687 504 810 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001075.jpg person 290 768 522 994 person 909 204 1004 528 person 1013 221 1108 530 person 272 709 459 832 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001078.jpg person 290 768 522 994 person 908 218 999 529 person 1010 230 1105 538 person 272 709 459 832 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001081.jpg person 268 776 500 1002 person 907 221 997 529 person 1008 232 1104 543 person 224 709 459 909 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001084.jpg person 268 776 500 1002 person 899 224 992 540 person 1002 235 1101 557 person 224 709 459 909 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001087.jpg person 268 776 500 1002 person 895 228 989 547 person 997 240 1097 564 person 224 709 459 909 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001090.jpg person 268 776 473 1002 person 890 243 982 557 person 983 252 1084 581 person 215 757 377 917 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001093.jpg person 268 776 473 1002 person 887 251 980 568 person 976 260 1079 594 person 197 755 376 932 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001096.jpg person 268 776 473 1002 person 881 261 977 589 person 957 270 1064 618 person 169 781 346 956 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001099.jpg person 219 840 424 1066 person 871 269 968 600 person 938 279 1047 634 person 146 799 320 971 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001102.jpg person 219 840 424 1066 person 865 273 962 603 person 926 286 1033 634 person 139 807 311 977 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001105.jpg person 180 881 378 1038 person 850 288 946 615 person 916 302 1038 641 person 130 819 297 984 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001108.jpg person 182 880 380 1037 person 840 298 935 624 person 909 309 1034 656 person 125 824 291 988 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001111.jpg person 182 880 380 1037 person 825 306 922 637 person 895 312 1028 683 person 109 837 280 1006 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001114.jpg person 154 900 352 1057 person 813 312 908 637 person 887 312 1027 703 person 142 832 319 1007 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001117.jpg person 121 930 319 1080 person 792 323 887 647 person 870 335 1011 649 person 125 857 304 1007 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001120.jpg person 111 943 307 1080 person 784 329 882 663 person 870 335 1011 649 person 125 857 304 1007 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001123.jpg person 87 962 272 1080 person 769 349 868 687 person 870 335 1011 649 person 90 871 269 1021 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001126.jpg person 77 989 245 1080 person 744 362 847 714 person 870 335 1011 649 person 90 871 268 1020 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001129.jpg person 69 1003 231 1080 person 730 365 836 728 person 808 394 949 708 person 64 896 241 1044 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001132.jpg person 50 1036 210 1080 person 707 368 825 769 person 795 400 936 714 person 35 972 188 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001135.jpg person 44 1045 205 1080 person 702 372 821 776 person 780 408 921 722 person 27 980 183 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001138.jpg person 677 393 796 798 person 764 426 905 809 person 27 980 183 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001141.jpg person 664 405 783 811 person 764 426 905 809 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001144.jpg person 662 418 779 817 person 716 446 855 823 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001147.jpg person 647 438 761 827 person 702 465 839 836 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001150.jpg person 638 455 745 819 person 694 477 832 852 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001153.jpg person 607 476 721 864 person 676 506 816 886 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001156.jpg person 594 486 710 881 person 665 515 807 902 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001159.jpg person 572 498 693 909 person 630 537 778 937 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001162.jpg person 561 510 680 916 person 614 547 760 944 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001165.jpg person 531 531 651 941 person 579 569 728 973 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001168.jpg person 549 512 700 887 person 561 580 763 988 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001171.jpg person 518 528 671 907 person 521 601 727 1017 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001174.jpg person 492 548 645 928 person 493 619 702 1041 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001177.jpg person 480 558 635 943 person 481 630 690 1053 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001180.jpg person 456 588 614 979 person 460 660 673 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001183.jpg person 445 602 606 1002 person 451 676 667 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001186.jpg person 426 619 589 1024 person 434 694 652 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001189.jpg person 413 630 579 1042 person 421 706 642 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001192.jpg person 378 651 550 1077 person 384 729 614 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001195.jpg person 359 664 533 1080 person 362 739 602 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001198.jpg person 315 679 500 1080 person 311 765 556 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001201.jpg person 278 699 465 1080 person 246 785 499 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001204.jpg person 255 707 448 1080 person 218 795 478 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001207.jpg person 220 725 425 1080 person 186 817 442 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001210.jpg person 298 717 503 1080 person 180 822 434 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001213.jpg person 255 760 494 935 person 182 879 387 1066 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001216.jpg person 255 760 494 935 person 182 880 385 1066 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001219.jpg person 231 773 470 948 person 167 896 370 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001222.jpg person 231 773 470 948 person 167 896 370 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001225.jpg person 202 817 441 992 person 131 900 334 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001228.jpg person 190 831 429 1006 person 131 999 295 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001231.jpg person 190 831 429 1006 person 105 1000 269 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001234.jpg person 161 853 400 1028 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001237.jpg person 161 853 400 1028 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001240.jpg person 161 853 400 1028 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001243.jpg person 126 900 365 1075 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001246.jpg person 126 900 365 1075 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001249.jpg person 126 956 328 1075 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001252.jpg person 126 956 328 1075 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001255.jpg person 65 968 267 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001258.jpg person 65 968 267 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001261.jpg person 65 1014 268 1080 
+/windows/D/workspace/datasets/person-detection/raw_annotations/frames/next_women_001264.jpg person 65 1014 268 1080 
